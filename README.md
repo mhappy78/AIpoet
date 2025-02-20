@@ -1,0 +1,2 @@
+# AIpoet
+AI creates poetry
